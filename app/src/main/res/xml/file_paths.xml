@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Grants access to FilesDir (context.filesDir) where PDFs, original/enhanced images, and TXT files reside -->
+    <files-path name="internal_files" path="." />
+    <!-- Fallback for external files if needed -->
+    <external-files-path name="external_files" path="." />
+    <cache-path name="internal_cache" path="." />
+</paths>

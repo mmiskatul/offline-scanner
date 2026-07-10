@@ -1,0 +1,6 @@
+{
+  "name": "Offline Smart Scanner",
+  "description": "A fully offline document scanner app to scan, crop, apply enhancements, generate PDFs, and perform local OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
